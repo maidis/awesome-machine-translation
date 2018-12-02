@@ -16,9 +16,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Other MT Lists 📝](#other-mt-lists)
 - [Papers 📄](#papers)
 - [Parallel Texts ⏸️](#parallel-texts)
+- [Tools 🛠](#tools)
 - [Tutorials 🎒](#tutorials)
 
 ## Aligners 🌌
+- [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
 
 ## Applications 💻
 - [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga
@@ -56,6 +58,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Papers 📄
 
 ## Parallel Texts ⏸️
+- [turkish-parallel-corpora](https://github.com/maidis/turkish-parallel-corpora) - Some English-Turkish parallel texts for use in machine translation systems.
+
+## Tools 🛠
+- [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
 
 ## Tutorials 🎒
 
