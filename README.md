@@ -7,8 +7,16 @@ If you want to contribute to this list (please do), send me a pull request or co
 - Not committed for long time (2~3 years).
 
 ## Contents
+- [Aligners](#aligners)
 - [Books](#books)
+- [Frameworks](#frameworks)
 - [Online MT Services](#online-mt-services)
+- [Other MT Lists](#other-mt-lists)
+- [Papers](#papers)
+- [Parallel Texts](#parallel-texts)
+- [Tutorials](#tutorials)
+
+## Aligners
 
 ## Books
 - [Learning Machine Translation](https://www.amazon.com/Learning-Machine-Translation-Information-Processing/dp/0262072971) - [Cyril Goutte](https://sites.google.com/site/cyrilgoutte/), [Nicola Cancedda](https://dblp.uni-trier.de/pers/hd/c/Cancedda:Nicola), [Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman), [George Foster](http://www-labs.iro.umontreal.ca/~foster/) - 2008 - The book looks first at enabling technologies that solve problems that are not Machine Translation proper but are linked closely to the development of a Machine Translation system, and then presents some Machine Translation techniques.
@@ -17,6 +25,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Statistical Machine Translation](https://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157) - [Philipp Koehn](https://github.com/phikoehn) - 2010 - An introductory text to statistical machine translation (SMT) provides all of the theories and methods needed to build a statistical machine translator.
 - [Syntax-based Statistical Machine Translation](https://www.amazon.com/Syntax-based-Statistical-Translation-Synthesis-Technologies/dp/1627059008) - [Philip Williams](http://homepages.inf.ed.ac.uk/s0898777/), [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), [Matt Post](https://mjpost.github.io/), [Philipp Koehn](http://www.cs.jhu.edu/~phi/) - 2016 - A comprehensive introduction to the syntax-based statistical machine translation models.
 
+## Frameworks
 
 ## Online MT Services
 - [Bing Microsoft Translator](https://www.bing.com/translator) - A service to translate texts or entire web pages into different languages.
@@ -24,3 +33,15 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [NiuTrans](https://niutrans.vip/) - A neural machine translation engine for 115 languages.
 - [Pure Neural Machine Translation](https://demo-pnmt.systran.net/production#/translation) - A demonstrator of SYSTRAN's MT engines.
 - [Yandex.Translate](https://translate.yandex.com/) - A web service provided by Yandex, intended for the translation of text or web pages into another language.
+
+## Other MT Lists
+- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) - A list of Neural MT implementations.
+- [14 Current Machine Translation Applications and Services](https://emerj.com/ai-sector-overviews/machine-translation-14-current-applications-and-services/) - A list of B2B and B2C machine translation applications.
+
+## Papers
+
+## Parallel Texts
+
+## Tutorials
+
+
