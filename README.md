@@ -29,6 +29,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Online MT Services
 - [Bing Microsoft Translator](https://www.bing.com/translator) - A service to translate texts or entire web pages into different languages.
+- [DeepL Translator](https://www.deepl.com/translator) - A translation service that currently supports translations between seven major European languages, powered by neural network technology.
 - [Google Translate](https://translate.google.com/) - A free service instantly translates words, phrases, and web pages between English and over 100 other languages.
 - [NiuTrans](https://niutrans.vip/) - A neural machine translation engine for 115 languages.
 - [Pure Neural Machine Translation](https://demo-pnmt.systran.net/production#/translation) - A demonstrator of SYSTRAN's MT engines.
