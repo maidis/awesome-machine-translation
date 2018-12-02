@@ -12,6 +12,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Books](#books)
 - [Frameworks](#frameworks)
 - [Online MT Services](#online-mt-services)
+- [Organizations and Events](#organizations-and-events)
 - [Other MT Lists](#other-mt-lists)
 - [Papers](#papers)
 - [Parallel Texts](#parallel-texts)
@@ -41,6 +42,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [NiuTrans](https://niutrans.vip/) - A neural machine translation engine for 115 languages.
 - [Pure Neural Machine Translation](https://demo-pnmt.systran.net/production#/translation) - A demonstrator of SYSTRAN's MT engines.
 - [Yandex.Translate](https://translate.yandex.com/) - A web service provided by Yandex, intended for the translation of text or web pages into another language.
+
+## Organizations and Events
+- [AAMT](http://www.aamt.info/) - Asia-Pacific Association for Machine Translation.
+- [AMTA](https://amtaweb.org/) - Association for Machine Translation in the Americas.
+- [EAMT (European Association for Machine Translation)](http://www.eamt.org/) - An organization that serves the growing community of people interested in MT and translation tools, including users, developers, and researchers.
+- [WMT18](http://www.statmt.org/wmt18/) - A conference builds on a series of annual workshops and conferences on statistical machine translation, going back to 2006.
 
 ## Other MT Lists
 - [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) - A list of Neural MT implementations.
