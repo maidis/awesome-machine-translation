@@ -7,16 +7,16 @@ If you want to contribute to this list (please do), send me a pull request or co
 - Not committed for long time (2~3 years).
 
 ## Contents
-- [Aligners 🌌](#aligners)
-- [Applications 💻](#applications)
-- [Books 📚](#books)
-- [Frameworks 🖼](#frameworks)
-- [Online MT Services 🌐](#online-mt-services)
-- [Organizations and Events 🎉](#organizations-and-events)
-- [Other MT Lists 📝](#other-mt-lists)
-- [Papers 📄](#papers)
-- [Parallel Texts ⏸️](#parallel-texts)
-- [Tutorials 🎒](#tutorials)
+- [Aligners 🌌](#aligners-)
+- [Applications 💻](#applications-)
+- [Books 📚](#books-)
+- [Frameworks 🖼](#frameworks-)
+- [Online MT Services 🌐](#online-mt-services-)
+- [Organizations and Events 🎉](#organizations-and-events-)
+- [Other MT Lists 📝](#other-mt-lists-)
+- [Papers 📄](#papers-)
+- [Parallel Texts ⏸️](#parallel-texts-)
+- [Tutorials 🎒](#tutorials-)
 
 ## Aligners 🌌
 
