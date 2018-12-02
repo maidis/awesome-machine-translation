@@ -64,5 +64,5 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
 
 ## Tutorials 🎒
-
+- [nmt](https://github.com/tensorflow/nmt) - TensorFlow neural machine translation tutorial.
 
