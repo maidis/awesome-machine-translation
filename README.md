@@ -10,7 +10,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Aligners 🌌](#aligners-)
 - [Applications 💻](#applications-)
 - [Books 📚](#books-)
+- [Companies and Paid Services 💰](#companies-and-paid-services)
 - [Frameworks 🖼](#frameworks-)
+- [Hardware 🎧](#hardware-)
 - [Online MT Services 🌐](#online-mt-services-)
 - [Organizations and Events 🎉](#organizations-and-events-)
 - [Other MT Lists 📝](#other-mt-lists-)
@@ -23,7 +25,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
 
 ## Applications 💻
-- [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga
+- [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga.
+- [Skype Translator](https://www.skype.com/en/features/skype-translator/) - A real-time voice and text translator.
 
 ## Books 📚
 - [Learning Machine Translation](https://www.amazon.com/Learning-Machine-Translation-Information-Processing/dp/0262072971) - [Cyril Goutte](https://sites.google.com/site/cyrilgoutte/), [Nicola Cancedda](https://dblp.uni-trier.de/pers/hd/c/Cancedda:Nicola), [Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman), [George Foster](http://www-labs.iro.umontreal.ca/~foster/) - 2008 - The book looks first at enabling technologies that solve problems that are not Machine Translation proper but are linked closely to the development of a Machine Translation system, and then presents some Machine Translation techniques.
@@ -32,10 +35,20 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Statistical Machine Translation](https://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157) - [Philipp Koehn](https://github.com/phikoehn) - 2010 - An introductory text to statistical machine translation (SMT) provides all of the theories and methods needed to build a statistical machine translator.
 - [Syntax-based Statistical Machine Translation](https://www.amazon.com/Syntax-based-Statistical-Translation-Synthesis-Technologies/dp/1627059008) - [Philip Williams](http://homepages.inf.ed.ac.uk/s0898777/), [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), [Matt Post](https://mjpost.github.io/), [Philipp Koehn](http://www.cs.jhu.edu/~phi/) - 2016 - A comprehensive introduction to the syntax-based statistical machine translation models.
 
+## Companies and Paid Services 💰
+- [KantanMT](https://www.kantanmt.com/) - A cloud-based statistical machine translation platform.
+- [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
+- [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
+
 ## Frameworks 🖼
+- [Apertium](https://www.apertium.org) - An open-source rule-based machine translation platform.
 - [Marian](https://marian-nmt.github.io/) - A Neural Machine Translation framework written in pure C++ with minimal dependencies.
+- [Moses](http://www.statmt.org/moses/) - A statistical machine translation system that allows to automatically train translation models for any language pair.
 - [NiuTrans.SMT](http://www.niutrans.com/niutrans/NiuTrans.html) - An open-source statistical machine translation system that fully developed in C++ language.
 - [OpenNMT](http://opennmt.net/) - An open source initiative for neural machine translation and neural sequence modeling.
+
+## Hardware 🎧
+- [ili](https://iamili.com) - An instant offline translation device for travelers.
 
 ## Online MT Services 🌐
 - [Bing Microsoft Translator](https://www.bing.com/translator) - A service to translate texts or entire web pages into different languages.
@@ -52,8 +65,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [WMT18](http://www.statmt.org/wmt18/) - A conference builds on a series of annual workshops and conferences on statistical machine translation, going back to 2006.
 
 ## Other MT Lists 📝
-- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) - A list of Neural MT implementations.
 - [14 Current Machine Translation Applications and Services](https://emerj.com/ai-sector-overviews/machine-translation-14-current-applications-and-services/) - A list of B2B and B2C machine translation applications.
+- [Comparison of machine translation applications](https://en.wikipedia.org/wiki/Comparison_of_machine_translation_applications) - General information for popular Machine translation applications.
+- [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) - A list of Neural MT implementations.
 
 ## Papers 📄
 
