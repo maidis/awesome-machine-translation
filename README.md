@@ -41,11 +41,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
 
 ## Frameworks 🖼
-- [Apertium](https://www.apertium.org) - An open-source rule-based machine translation platform.
-- [Marian](https://marian-nmt.github.io/) - A Neural Machine Translation framework written in pure C++ with minimal dependencies.
+- [Apertium](https://www.apertium.org) - An open source rule-based machine translation platform.
+- [Marian](https://marian-nmt.github.io/) - A neural machine translation framework written in pure C++ with minimal dependencies.
 - [Moses](http://www.statmt.org/moses/) - A statistical machine translation system that allows to automatically train translation models for any language pair.
-- [NiuTrans.SMT](http://www.niutrans.com/niutrans/NiuTrans.html) - An open-source statistical machine translation system that fully developed in C++ language.
+- [NiuTrans.SMT](http://www.niutrans.com/niutrans/NiuTrans.html) - An open source statistical machine translation system that fully developed in C++ language.
 - [OpenNMT](http://opennmt.net/) - An open source initiative for neural machine translation and neural sequence modeling.
+- [THUMT](http://thumt.thunlp.org/) - An open source toolkit for neural machine translation.
 
 ## Hardware 🎧
 - [ili](https://iamili.com) - An instant offline translation device for travelers.
@@ -54,6 +55,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Bing Microsoft Translator](https://www.bing.com/translator) - A service to translate texts or entire web pages into different languages.
 - [DeepL Translator](https://www.deepl.com/translator) - A translation service that currently supports translations between seven major European languages, powered by neural network technology.
 - [Google Translate](https://translate.google.com/) - A free service instantly translates words, phrases, and web pages between English and over 100 other languages.
+- [THUMT](http://101.6.5.207:3892/) - THUMT online demo.
 - [NiuTrans](https://niutrans.vip/) - A neural machine translation engine for 115 languages.
 - [Pure Neural Machine Translation](https://demo-pnmt.systran.net/production#/translation) - A demonstrator of SYSTRAN's MT engines.
 - [Yandex.Translate](https://translate.yandex.com/) - A web service provided by Yandex, intended for the translation of text or web pages into another language.
@@ -67,6 +69,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Other MT Lists 📝
 - [14 Current Machine Translation Applications and Services](https://emerj.com/ai-sector-overviews/machine-translation-14-current-applications-and-services/) - A list of B2B and B2C machine translation applications.
 - [Comparison of machine translation applications](https://en.wikipedia.org/wiki/Comparison_of_machine_translation_applications) - General information for popular Machine translation applications.
+- [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
 - [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) - A list of Neural MT implementations.
 
 ## Papers 📄
