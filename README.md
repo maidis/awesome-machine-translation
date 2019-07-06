@@ -81,8 +81,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [turkish-parallel-corpora](https://github.com/maidis/turkish-parallel-corpora) - Some English-Turkish parallel texts for use in machine translation systems.
 
 ## Tools 🛠
-- [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
 - [Corpora Cleaning Tools](https://github.com/M4t1ss/parallel-corpora-tools) - Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.
+- [Multiword Expression Tools](https://github.com/M4t1ss/MWE-Tools) - Tools for use with multiword expression extraction from parallel corpora for Moses statistical machine translation system.
+- [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
 
 ## Tutorials 🎒
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow neural machine translation tutorial.
