@@ -22,6 +22,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Tutorials 🎒](#tutorials-)
 
 ## Aligners 🌌
+- [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools
 - [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
 
 ## Applications 💻
