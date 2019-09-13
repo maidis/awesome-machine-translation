@@ -27,6 +27,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools.
 - [LF Aligner](https://sourceforge.net/projects/aligner/) - A tool to create translation memories from texts and their translations. It relies on Hunalign for automatic sentence pairing.
 - [Web Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/) - Online parallel texts aligner and format converter.
+- [yalign](https://github.com/machinalis/yalign) - A sentence aligner for comparable corpora.
 - [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
 
 ## Applications 💻
