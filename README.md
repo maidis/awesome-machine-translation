@@ -75,6 +75,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [inspiring_papers](https://github.com/alphadl/inspiring_papers) - Papers related to machine translation.
 - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
 - [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) - A list of Neural MT implementations.
+- [NMT Papers](https://github.com/yokusama/NMT_Papers) - Some papers about NMT.
 
 ## Papers 📄
 
