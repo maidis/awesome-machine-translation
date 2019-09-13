@@ -101,4 +101,4 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Tutorials 🎒
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow neural machine translation tutorial.
-
+- [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips) - A tutorial that explains some practical tips about how to train a neural machine translation system. It's partly based around examples using the lamtram toolkit.
