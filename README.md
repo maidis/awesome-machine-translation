@@ -92,6 +92,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Papers 📄
 
 ## Parallel Texts ⏸️
+- [Corpora Cleaning Tools](https://github.com/M4t1ss/parallel-corpora-tools) - Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.
 - [OPUS](http://opus.nlpl.eu/) - A growing collection of translated texts from the web.
 - [Publicly accessible translation memories](http://wiki.proz.com/wiki/index.php/Publicly_accessible_translation_memories_(TMs)) - Several online services allowing access to aggregated translation memories.
 - [turkish-parallel-corpora](https://github.com/maidis/turkish-parallel-corpora) - Some English-Turkish parallel texts for use in machine translation systems.
