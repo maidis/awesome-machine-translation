@@ -31,6 +31,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
 
 ## Applications 💻
+- [Intento](https://inten.to/api-platform/ai/text/translate) - A simple API to third-party machine translation services from many vendors.
 - [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga.
 - [Skype Translator](https://www.skype.com/en/features/skype-translator/) - A real-time voice and text translator.
 
