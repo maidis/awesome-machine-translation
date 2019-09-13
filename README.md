@@ -89,6 +89,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Papers 📄
 
 ## Parallel Texts ⏸️
+- [OPUS](http://opus.nlpl.eu/) - A growing collection of translated texts from the web.
+- [Publicly accessible translation memories](http://wiki.proz.com/wiki/index.php/Publicly_accessible_translation_memories_(TMs)) - Several online services allowing access to aggregated translation memories.
 - [turkish-parallel-corpora](https://github.com/maidis/turkish-parallel-corpora) - Some English-Turkish parallel texts for use in machine translation systems.
 
 ## Tools 🛠
