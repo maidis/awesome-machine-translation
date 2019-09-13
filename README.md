@@ -22,8 +22,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Tutorials 🎒](#tutorials-)
 
 ## Aligners 🌌
-- [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools
 - [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
+- [hunalign](http://mokk.bme.hu/resources/hunalign/) - A tool that aligns bilingual text on the sentence level. 
+- [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools.
+- [LF Aligner](https://sourceforge.net/projects/aligner/) - A tool to create translation memories from texts and their translations. It relies on Hunalign for automatic sentence pairing.
+- [Web Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/) - Online parallel texts aligner and format converter.
+- [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
 
 ## Applications 💻
 - [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga.
