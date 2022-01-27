@@ -51,6 +51,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Lingua Custodia](https://www.linguacustodia.finance/) - A machine translation company specializes in finance.
 - [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
 - [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
+- [Unbabel](https://unbabel.com/) - A company that provides AI-powered, human-refined translation for customer support.
 - [Waverly Labs](https://www.waverlylabs.com/) - A tech startup in NYC at the convergence of wearable technology and machine translation.
 
 ## Frameworks 🖼
