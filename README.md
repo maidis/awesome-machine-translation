@@ -33,6 +33,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Applications 💻
 - [Canopy Speak](https://www.withcanopy.com/canopy-speak/) - A freemium smart medical phrase mobile app.
 - [Intento](https://inten.to/api-platform/ai/text/translate) - A simple API to third-party machine translation services from many vendors.
+- [iTranslate](https://itranslate.com/) - A translation and dictionary app.
 - [LibreOffice Translate](https://github.com/lernapparat/lotranslate) - An extension providing neural machine translation for LibreOffice with a single click.
 - [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga.
 - [Skype Translator](https://www.skype.com/en/features/skype-translator/) - A real-time voice and text translator.
