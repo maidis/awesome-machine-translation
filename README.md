@@ -31,6 +31,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
 
 ## Applications 💻
+- [Canopy Speak](https://www.withcanopy.com/canopy-speak/) - A freemium smart medical phrase mobile app.
 - [Intento](https://inten.to/api-platform/ai/text/translate) - A simple API to third-party machine translation services from many vendors.
 - [LibreOffice Translate](https://github.com/lernapparat/lotranslate) - An extension providing neural machine translation for LibreOffice with a single click.
 - [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga.
