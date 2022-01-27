@@ -57,6 +57,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Frameworks 🖼
 - [Apertium](https://www.apertium.org) - An open source rule-based machine translation platform.
 - [EnglishTurkishTranslation-CPP](https://github.com/olcaytaner/EnglishTurkishTranslation-CPP) - An English-Turkish phrase-based translation library.
+- [Joey NMT](https://github.com/joeynmt/joeynmt) - A minimalist NMT for educational purposes.
 - [Marian](https://marian-nmt.github.io/) - A neural machine translation framework written in pure C++ with minimal dependencies.
 - [ModernMT](https://github.com/ModernMT/MMT) - A neural adaptive machine translation that adapts to context and learns from corrections.
 - [Moses](http://www.statmt.org/moses/) - A statistical machine translation system that allows to automatically train translation models for any language pair.
