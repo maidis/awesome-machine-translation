@@ -47,6 +47,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Companies and Paid Services 💰
 - [KantanAI](https://www.kantanai.io/) - A SaaS-based Machine Translation platform.
+- [Lingua Custodia](https://www.linguacustodia.finance/) - A machine translation company specializes in finance.
 - [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
 - [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
 
