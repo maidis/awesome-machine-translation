@@ -60,7 +60,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Marian](https://marian-nmt.github.io/) - A neural machine translation framework written in pure C++ with minimal dependencies.
 - [ModernMT](https://github.com/ModernMT/MMT) - A neural adaptive machine translation that adapts to context and learns from corrections.
 - [Moses](http://www.statmt.org/moses/) - A statistical machine translation system that allows to automatically train translation models for any language pair.
-- [NiuTrans.SMT](http://www.niutrans.com/niutrans/NiuTrans.html) - An open source statistical machine translation system that fully developed in C++ language.
+- [NiuTrans.NMT](https://github.com/NiuTrans/NiuTrans.NMT) - A fast Neural Machine Translation system that developed in C++ and resorts to NiuTensor for fast tensor APIs.
+- [NiuTrans.SMT](https://github.com/NiuTrans/NiuTrans.SMT) - An open source statistical machine translation system that fully developed in C++ language.
 - [OpenNMT](http://opennmt.net/) - An open source initiative for neural machine translation and neural sequence modeling.
 - [THUMT](http://thumt.thunlp.org/) - An open source toolkit for neural machine translation.
 
