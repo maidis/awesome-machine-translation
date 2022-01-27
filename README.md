@@ -45,7 +45,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Neural Machine Translation](https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn/dp/1108497322) - [Philipp Koehn](https://github.com/phikoehn) - 2020 - A book that introduces the challenge of machine translation and evaluation, including historical, linguistic, and applied context, then develops the core deep learning methods used for natural language applications.
 
 ## Companies and Paid Services 💰
-- [KantanMT](https://www.kantanmt.com/) - A cloud-based statistical machine translation platform.
+- [KantanAI](https://www.kantanai.io/) - A SaaS-based Machine Translation platform.
 - [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
 - [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
 
