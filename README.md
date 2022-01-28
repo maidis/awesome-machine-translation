@@ -31,12 +31,18 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
 
 ## Applications 💻
+- [Argos Translate](https://github.com/argosopentech/argos-translate) - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
 - [Canopy Speak](https://www.withcanopy.com/canopy-speak/) - A freemium smart medical phrase mobile app.
+- [CTranslate-NMT-Web-Interface](https://github.com/ymoslem/CTranslate-NMT-Web-Interface) - A Machine Translation web interface for OpenNMT and FairSeq models using CTranslate and Streamlit.
+- [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) - A local cross-platform machine translation GUI, based on CTranslate2.
 - [Intento](https://inten.to/api-platform/ai/text/translate) - A simple API to third-party machine translation services from many vendors.
 - [iTranslate](https://itranslate.com/) - A translation and dictionary app.
 - [LibreOffice Translate](https://github.com/lernapparat/lotranslate) - An extension providing neural machine translation for LibreOffice with a single click.
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - A free and open source machine translation API.
+- [Local-NMT](https://github.com/fantinuoli/Local-NMT) - A pre-trained Huggingface Machine Translation engine with UI on local computer.
 - [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga.
 - [Skype Translator](https://www.skype.com/en/features/skype-translator/) - A real-time voice and text translator.
+- [translateLocally](https://github.com/XapaJIaMnu/translateLocally) - A fast and secure translation on your local machine, powered by marian and Bergamot.
 
 ## Books 📚
 - [Learning Machine Translation](https://www.amazon.com/Learning-Machine-Translation-Information-Processing/dp/0262072971) - [Cyril Goutte](https://sites.google.com/site/cyrilgoutte/), [Nicola Cancedda](https://dblp.uni-trier.de/pers/hd/c/Cancedda:Nicola), [Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman), [George Foster](http://www-labs.iro.umontreal.ca/~foster/) - 2008 - The book looks first at enabling technologies that solve problems that are not Machine Translation proper but are linked closely to the development of a Machine Translation system, and then presents some Machine Translation techniques.
