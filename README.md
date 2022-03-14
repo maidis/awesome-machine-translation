@@ -6,6 +6,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 - Repository's owner explicitly say that "this library is not maintained".
 - Not committed for long time (2~3 years).
 
+You can also find an updated list of machine translation frameworks libraries, software and papers at [machinetranslate.org](http://machinetranslate.org).
+
 ## Contents
 - [Aligners 🌌](#aligners-)
 - [Applications 💻](#applications-)
