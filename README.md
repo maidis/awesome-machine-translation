@@ -28,6 +28,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [hunalign](http://mokk.bme.hu/resources/hunalign/) - A tool that aligns bilingual text on the sentence level. 
 - [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools.
 - [LF Aligner](https://sourceforge.net/projects/aligner/) - A tool to create translation memories from texts and their translations. It relies on Hunalign for automatic sentence pairing.
+- [Vecalign](https://github.com/thompsonb/vecalign) - An accurate sentence alignment algorithm that works in about 100 languages, without the need for a machine translation system or lexicon.
 - [Web Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/) - Online parallel texts aligner and format converter.
 - [yalign](https://github.com/machinalis/yalign) - A sentence aligner for comparable corpora.
 - [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
