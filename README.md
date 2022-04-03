@@ -123,6 +123,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Corpora Cleaning Tools](https://github.com/M4t1ss/parallel-corpora-tools) - Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.
 - [MT-Tools](https://github.com/ymoslem/MT-Tools) - A collection of common machine translation tools.
 - [Multiword Expression Tools](https://github.com/M4t1ss/MWE-Tools) - Tools for use with multiword expression extraction from parallel corpora for Moses statistical machine translation system.
+- [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - A tool for filtering and combining parallel corpora.
 - [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
 
 ## Tutorials 🎒
