@@ -117,6 +117,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 ## Parallel Texts ⏸️
 - [Avrupa Birliği İlerleme Raporları](https://github.com/ogun/ab-ilerleme-raporlari) - Regular Turkish and English progress reports prepared for Turkey by the European Commission.
 - [Corpora Cleaning Tools](https://github.com/M4t1ss/parallel-corpora-tools) - Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.
+- [OmegaWiki](http://www.omegawiki.org/) - A collaborative project to produce a free, multilingual dictionary for every language with lexicological, terminological and thesaurus information.
 - [OPUS](http://opus.nlpl.eu/) - A growing collection of translated texts from the web.
 - [Publicly accessible translation memories](http://wiki.proz.com/wiki/index.php/Publicly_accessible_translation_memories_(TMs)) - Several online services allowing access to aggregated translation memories.
 - [turkish-parallel-corpora](https://github.com/maidis/turkish-parallel-corpora) - Some English-Turkish parallel texts for use in machine translation systems.
