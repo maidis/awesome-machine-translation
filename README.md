@@ -105,6 +105,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Awesome-Multimodal-Machine-Translation](https://github.com/ZihengZZH/awesome-multimodal-machine-translation) - A curated list of awesome papers, datasets and tutorials within Multimodal Machine Learning.
 - [awesome-nmt](https://github.com/sanjibnarzary/awesome-nmt) - A curated list of useful paper, tools, tutorials, data, conferences, journals for neural machine translation.
 - [Awosome Simultaneous Translation](https://github.com/js-lee-AI/Awesome_SimultaneousTranslation) - Awesome papers and codes for Simultaneous Machine Translation.
+- [Awesome Simultaneous Translation](https://github.com/Vily1998/Awesome-Simultaneous-Translation) - Paper list of Simultaneous Translation Research, including both text-to-text machine translation and speech-to-text translation.
 - [Comparison of machine translation applications](https://en.wikipedia.org/wiki/Comparison_of_machine_translation_applications) - General information for popular Machine translation applications.
 - [inspiring_papers](https://github.com/alphadl/inspiring_papers) - Papers related to machine translation.
 - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
