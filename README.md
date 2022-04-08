@@ -25,6 +25,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Aligners 🌌
 - [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
+- [Bleualign-cpp](https://github.com/bitextor/bleualign-cpp) - A C++ sentence alignment tool based on Bleualign. Bleualign-cpp is expected to be used together with document-aligner.
 - [hunalign](http://mokk.bme.hu/resources/hunalign/) - A tool that aligns bilingual text on the sentence level. 
 - [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools.
 - [LF Aligner](https://sourceforge.net/projects/aligner/) - A tool to create translation memories from texts and their translations. It relies on Hunalign for automatic sentence pairing.
