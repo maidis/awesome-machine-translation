@@ -132,5 +132,6 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Tutorials and Blogs 🎒
 - [Jindřich’s Blog](https://jlibovicky.github.io/) - Remarks and comments on natural language processing, artificial intelligence, and their potential social impact.
+- [MachineTranslation.io](https://blog.machinetranslation.io/category/nmt) - Machine translation researcher Yasmin Moslem's blog.
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow neural machine translation tutorial.
 - [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips) - A tutorial that explains some practical tips about how to train a neural machine translation system. It's partly based around examples using the lamtram toolkit.
