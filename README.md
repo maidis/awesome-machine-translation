@@ -21,7 +21,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Papers 📄](#papers-)
 - [Parallel Texts ⏸️](#parallel-texts-️)
 - [Tools 🛠](#tools-)
-- [Tutorials 🎒](#tutorials-)
+- [Tutorials and Blogs 🎒](#tutorials-)
 
 ## Aligners 🌌
 - [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
@@ -128,6 +128,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - A tool for filtering and combining parallel corpora.
 - [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
 
-## Tutorials 🎒
+## Tutorials and Blogs 🎒
+- [Jindřich’s Blog](https://jlibovicky.github.io/) - Remarks and comments on natural language processing, artificial intelligence, and their potential social impact.
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow neural machine translation tutorial.
 - [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips) - A tutorial that explains some practical tips about how to train a neural machine translation system. It's partly based around examples using the lamtram toolkit.
