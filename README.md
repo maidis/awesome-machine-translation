@@ -136,5 +136,6 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Build Your Own ‘Google Translate’-Quality Machine Translation System](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476) - A blog post that explains how to built a NMT.
 - [Jindřich’s Blog](https://jlibovicky.github.io/) - Remarks and comments on natural language processing, artificial intelligence, and their potential social impact.
 - [MachineTranslation.io](https://blog.machinetranslation.io/category/nmt) - Machine translation researcher Yasmin Moslem's blog.
+- [ChatGPT-translation.py](https://gist.github.com/ymoslem/cc46564d23857883aeeec136436fac23) - Minimal working code for translation with GPT-4.
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow neural machine translation tutorial.
 - [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips) - A tutorial that explains some practical tips about how to train a neural machine translation system. It's partly based around examples using the lamtram toolkit.
