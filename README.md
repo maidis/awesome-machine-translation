@@ -68,6 +68,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Frameworks 🖼
 - [Apertium](https://www.apertium.org) - An open source rule-based machine translation platform.
+- [Bergamot](https://github.com/browsermt/bergamot-translator) - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.
 - [EnglishTurkishTranslation-CPP](https://github.com/olcaytaner/EnglishTurkishTranslation-CPP) - An English-Turkish phrase-based translation library.
 - [fairseq](https://github.com/pytorch/fairseq) - A sequence modeling toolkit to train custom models for translation, summarization, language modeling and other text generation tasks.
 - [Joey NMT](https://github.com/joeynmt/joeynmt) - A minimalist NMT for educational purposes.
@@ -134,8 +135,8 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Tutorials and Blogs 🎒
 - [Build Your Own ‘Google Translate’-Quality Machine Translation System](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476) - A blog post that explains how to built a NMT.
+- [ChatGPT-translation.py](https://gist.github.com/ymoslem/cc46564d23857883aeeec136436fac23) - Minimal working code for translation with GPT-4.
 - [Jindřich’s Blog](https://jlibovicky.github.io/) - Remarks and comments on natural language processing, artificial intelligence, and their potential social impact.
 - [MachineTranslation.io](https://blog.machinetranslation.io/category/nmt) - Machine translation researcher Yasmin Moslem's blog.
-- [ChatGPT-translation.py](https://gist.github.com/ymoslem/cc46564d23857883aeeec136436fac23) - Minimal working code for translation with GPT-4.
 - [nmt](https://github.com/tensorflow/nmt) - TensorFlow neural machine translation tutorial.
 - [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips) - A tutorial that explains some practical tips about how to train a neural machine translation system. It's partly based around examples using the lamtram toolkit.
