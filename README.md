@@ -116,6 +116,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
 - [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) - A list of Neural MT implementations.
 - [NMT Papers](https://github.com/yokusama/NMT_Papers) - Some papers about NMT.
+- [Awesome New Languages in Machine Translation](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) - A list of initiatives for supporting MT for new languages (mostly lower-resourced ones).
 
 ## Papers 📄
 
