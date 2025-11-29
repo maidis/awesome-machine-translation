@@ -62,6 +62,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 ## Companies and Paid Services 💰
 - [KantanAI](https://www.kantanai.io/) - A SaaS-based Machine Translation platform.
 - [Lingua Custodia](https://www.linguacustodia.finance/) - A machine translation company specializes in finance.
+- [Shipi18n](https://shipi18n.com/) - A translation API for developers with i18next support, placeholder preservation, and 90-day translation memory.
 - [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
 - [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
 - [Unbabel](https://unbabel.com/) - A company that provides AI-powered, human-refined translation for customer support.
