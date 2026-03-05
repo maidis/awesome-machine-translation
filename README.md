@@ -134,6 +134,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Multiword Expression Tools](https://github.com/M4t1ss/MWE-Tools) - Tools for use with multiword expression extraction from parallel corpora for Moses statistical machine translation system.
 - [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - A tool for filtering and combining parallel corpora.
 - [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
+- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support and change detection.
 
 ## Tutorials and Blogs 🎒
 - [Build Your Own ‘Google Translate’-Quality Machine Translation System](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476) - A blog post that explains how to built a NMT.
