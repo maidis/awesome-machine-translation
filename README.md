@@ -66,6 +66,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
 - [Unbabel](https://unbabel.com/) - A company that provides AI-powered, human-refined translation for customer support.
 - [Waverly Labs](https://www.waverlylabs.com/) - A tech startup in NYC at the convergence of wearable technology and machine translation.
+- [ForgeFile](https://forgefile.com/) - A web platform for machine translation of documents and localization files that keeps layout and file structure intact.
 
 ## Frameworks 🖼
 - [Apertium](https://www.apertium.org) - An open source rule-based machine translation platform.
