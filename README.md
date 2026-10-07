@@ -60,6 +60,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Machine Translation: Foundations and Models](https://github.com/NiuTrans/MTBook) - Tong Xiao, Jingbo Zhu - 2020... - Chinese - A book that gives a systematic introduction to the basic knowledge and modeling methods of machine translation, and on this basis, discuss some cutting-edge technologies of machine translation. It can be used for the study of senior undergraduates and graduate students in computer and artificial intelligence related majors, and can also be used as a reference material for researchers related to natural language processing, especially machine translation.
 
 ## Companies and Paid Services 💰
+- [Alexa Translations A.I.](https://alexatranslations.com/alexa-translations-ai/) - Alexa Translations provides A.I.-powered translations for the largest and most prestigious legal, financial, and government institutions. 
 - [KantanAI](https://www.kantanai.io/) - A SaaS-based Machine Translation platform.
 - [Lingua Custodia](https://www.linguacustodia.finance/) - A machine translation company specializes in finance.
 - [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
