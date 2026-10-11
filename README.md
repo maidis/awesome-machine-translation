@@ -66,6 +66,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [NitroTranslate](https://nitrotranslate.com) - Professional human translation via API (not machine); AI agents can order and pay autonomously via the Machine Payments Protocol (MPP).
 - [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
 - [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
+- [TranslateMyImage](https://translatemyimage.com/) - A web service that translates the text inside images and returns the same image with the translation in place.
 - [Unbabel](https://unbabel.com/) - A company that provides AI-powered, human-refined translation for customer support.
 - [Waverly Labs](https://www.waverlylabs.com/) - A tech startup in NYC at the convergence of wearable technology and machine translation.
 - [ForgeFile](https://forgefile.com/) - A web platform for machine translation of documents and localization files that keeps layout and file structure intact.
