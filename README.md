@@ -45,6 +45,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - A free and open source machine translation API.
 - [Local-NMT](https://github.com/fantinuoli/Local-NMT) - A pre-trained Huggingface Machine Translation engine with UI on local computer.
 - [Mantra](https://mntr.jp/) - A highly accurate automatic translation of manga.
+- MT-MangaTranslate-Manga Translator - Web-based [manga translator](https://www.mangatranslate.com/) from Ficory LLC for images and PDFs, with OCR, batch processing, and an online dialogue and layout editor; limited daily free web credits and paid API credits.
 - [Skype Translator](https://www.skype.com/en/features/skype-translator/) - A real-time voice and text translator.
 - [Slatona Translator](https://slatona.com) - A translation app for macOS that annotates word senses.
 - [translateLocally](https://github.com/XapaJIaMnu/translateLocally) - A fast and secure translation on your local machine, powered by marian and Bergamot.
