@@ -122,6 +122,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Awesome New Languages in Machine Translation](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) - A list of initiatives for supporting MT for new languages (mostly lower-resourced ones).
 
 ## Papers 📄
+- [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](https://aclanthology.org/2024.ccl-1.82/) - A CCL 2024 paper on making LLMs follow terminology and other constraints in machine translation by prompting them to revise the constraints they missed.
 
 ## Parallel Texts ⏸️
 - [Avrupa Birliği İlerleme Raporları](https://github.com/ogun/ab-ilerleme-raporlari) - Regular Turkish and English progress reports prepared for Turkey by the European Commission.
