@@ -48,6 +48,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Skype Translator](https://www.skype.com/en/features/skype-translator/) - A real-time voice and text translator.
 - [Slatona Translator](https://slatona.com) - A translation app for macOS that annotates word senses.
 - [translateLocally](https://github.com/XapaJIaMnu/translateLocally) - A fast and secure translation on your local machine, powered by marian and Bergamot.
+- [Vocnu engine](https://github.com/vocnu/engine) - An open source tool that transcribes a video, translates it into one of 35 languages with an LLM and a review pass, and adds a narrated voice-over and subtitles.
 
 ## Books 📚
 - [Learning Machine Translation](https://www.amazon.com/Learning-Machine-Translation-Information-Processing/dp/0262072971) - [Cyril Goutte](https://sites.google.com/site/cyrilgoutte/), [Nicola Cancedda](https://dblp.uni-trier.de/pers/hd/c/Cancedda:Nicola), [Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman), [George Foster](http://www-labs.iro.umontreal.ca/~foster/) - 2008 - The book looks first at enabling technologies that solve problems that are not Machine Translation proper but are linked closely to the development of a Machine Translation system, and then presents some Machine Translation techniques.
