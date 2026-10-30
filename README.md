@@ -69,6 +69,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Unbabel](https://unbabel.com/) - A company that provides AI-powered, human-refined translation for customer support.
 - [Waverly Labs](https://www.waverlylabs.com/) - A tech startup in NYC at the convergence of wearable technology and machine translation.
 - [ForgeFile](https://forgefile.com/) - A web platform for machine translation of documents and localization files that keeps layout and file structure intact.
+- [VoxSail](https://voxsail.com/en/) - A browser workspace for video and audio translation, AI dubbing, and subtitle review (paid plans with one-time starter credits).
 
 ## Frameworks 🖼
 - [Apertium](https://www.apertium.org) - An open source rule-based machine translation platform.
