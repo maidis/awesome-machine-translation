@@ -93,6 +93,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Bing Microsoft Translator](https://www.bing.com/translator) - A service to translate texts or entire web pages into different languages.
 - [DeepL Translator](https://www.deepl.com/translator) - A translation service that currently supports translations between seven major European languages, powered by neural network technology.
 - [Google Translate](https://translate.google.com/) - A free service instantly translates words, phrases, and web pages between English and over 100 other languages.
+- [GuruTrans](https://gurutrans.app/) - A set of online AI translation tools for text, such as English to Chinese, Japanese to English, and Greek to English.
 - [Masakhane](http://translate.masakhane.io/) - A machine translation service for African languages.
 - [ModernMT](https://www.modernmt.eu/translate) - ModernMT online demo.
 - [MyDutchPal's Neural MT Gateway](http://www.nmtgateway.com/) - A free online neural machine translation system to translate short pieces of text.
