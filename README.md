@@ -37,6 +37,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 ## Applications 💻
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
 - [Canopy Speak](https://www.withcanopy.com/canopy-speak/) - A freemium smart medical phrase mobile app.
+- [App Store Localizer](https://asolocalization.com) - Machine-translated App Store listings for indie iOS apps from a store URL.
 - [CTranslate-NMT-Web-Interface](https://github.com/ymoslem/CTranslate-NMT-Web-Interface) - A Machine Translation web interface for OpenNMT and FairSeq models using CTranslate and Streamlit.
 - [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) - A local cross-platform machine translation GUI, based on CTranslate2.
 - [Intento](https://inten.to/api-platform/ai/text/translate) - A simple API to third-party machine translation services from many vendors.
